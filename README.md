@@ -65,4 +65,3 @@ npm run dev
 - Tais Barbosa
 
 Estudantes de Análise e Desenvolvimento de Sistemas
->>>>>>> 830b8629f11b481367f8c7f7231b2fb93a13672d
